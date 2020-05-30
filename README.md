@@ -2,9 +2,10 @@
 Introducing students to github for version control and collaboration
 
 Cover:
-<ln>single user version control:</ln>
-1. single user version control:
-1.1. Repository
-1.2. Brances
-1.3. Commits
-1.4. Pull Requests
+<ol>
+  <li>single user version control:</li>
+  <li>Repository</li>
+  <li>Commits</li>
+  <li>Branches</li>
+  <li>Pull requests</li>
+</ol> 
